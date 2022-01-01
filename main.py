@@ -106,3 +106,5 @@ def solve_hanoi(tower):
         counter += 1
     print('Hanoi Code Finished')
     print('It took:', counter, 'Tries')
+
+#To call, enter: solve_hanoi(generate_hanoi(Replace this with the amount of disc you want))
